@@ -56,3 +56,22 @@ a {
   background-color: #f1f1f1;
   text-align: center;
 }
+
+#email {
+  width: 400px;
+  padding: 10px 20px;
+  outline: none;
+  border: 2px solid black;
+}
+#psw {
+  width: 400px;
+  padding: 10px 20px;
+  outline: none;
+  border: 2px solid black;
+}
+#psw-repeat {
+  width: 400px;
+  padding: 10px 20px;
+  outline: none;
+  border: 2px solid black;
+}
