@@ -58,19 +58,19 @@ a {
 }
 
 #email {
-  width: 400px;
+  width: 350px;
   padding: 10px 20px;
   outline: none;
   border: 2px solid black;
 }
 #psw {
-  width: 400px;
+  width: 350px;
   padding: 10px 20px;
   outline: none;
   border: 2px solid black;
 }
 #psw-repeat {
-  width: 400px;
+  width: 350px;
   padding: 10px 20px;
   outline: none;
   border: 2px solid black;
